@@ -67,42 +67,42 @@ yarn start
 ## Features
 
 - [Create an account as a service provider or as a costumer.](https://i.imgur.com/klYLDGA.png)
--  [Use the calendar to create an appointment.](https://media.giphy.com/media/jVNE7r8kiEsac61GNZ/giphy.gif) 
--  [Find out who created an appointment.](https://i.imgur.com/IXjC48Q.png)
+- [Use the calendar to create an appointment.](https://media.giphy.com/media/jVNE7r8kiEsac61GNZ/giphy.gif) 
+- [Find out who created an appointment.](https://i.imgur.com/IXjC48Q.png)
 ## Techs
 
 -   Typescript
 
 back-end
--
+
 
 -	redis
 -	mongodb
 -	postgress
 -	nodemailer
--   aws-sdk
--   cors
--   express
--   celebrate
--   multer
-- -uuidv4
-- -jsonwebtoken
+- aws-sdk
+- cors
+- express
+- celebrate
+- multer
+- uuidv4
+- jsonwebtoken
 
 web
--
 
--   react
--   yup
--   axios
+
+- react
+- yup
+- axios
 - unform
 - styled-components
 - polished
 
 mobile
--
+
 - async-storage 
--  react-native
--   unform
+- react-native
+- unform
 - axios
 - yup
 - styled-components
