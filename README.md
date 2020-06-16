@@ -3,7 +3,11 @@
 ![Imgur](https://i.imgur.com/KhAxp6Pl.png)    <br/>![Imgur](https://i.imgur.com/62I3932m.png) ![Imgur](https://i.imgur.com/XM6QVOom.png) 
 <br/>![create-account](https://media.giphy.com/media/jVNE7r8kiEsac61GNZ/giphy.gif)
  
-
+## Features
+- Manage the schedule of your business appointments.
+- [Create an account as a service provider or as a costumer.](https://i.imgur.com/klYLDGA.png)
+- [Use the calendar to create an appointment.](https://media.giphy.com/media/jVNE7r8kiEsac61GNZ/giphy.gif) 
+- [Find out who created an appointment.](https://i.imgur.com/IXjC48Q.png)
 
 ## Installation
 
@@ -64,11 +68,7 @@ yarn start
 
 ```
 
-## Features
 
-- [Create an account as a service provider or as a costumer.](https://i.imgur.com/klYLDGA.png)
-- [Use the calendar to create an appointment.](https://media.giphy.com/media/jVNE7r8kiEsac61GNZ/giphy.gif) 
-- [Find out who created an appointment.](https://i.imgur.com/IXjC48Q.png)
 ## Techs
 
 -   Typescript
